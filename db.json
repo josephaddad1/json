@@ -1,0 +1,14 @@
+{
+    "thirdParties": {
+        "data": {
+            "thirdParties": [
+                {
+                    "id": "1"
+                },
+                {
+                    "id": "2"
+                }
+            ]
+        }
+    }
+}
