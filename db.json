@@ -5,16 +5,16 @@
                 {
                     "entityId": "1",
                     "entityName": "Alfa",
-                    "entityLogo": "" },
+                    "entityLogo": ""
+                },
                 {
                     "id": "2",
                     "entityName": "Mtc",
-                    "entityLogo": ""}
+                    "entityLogo": ""
+                }
             ]
         }
-    }
-    ,
-    
+    },
     "thirdPartyServices": {
         "1": {
             "data": {
@@ -29,20 +29,20 @@
                     }
                 ]
             }
-        }
-    },
-    "2": {
-        "data": {
-            "thirdPartyServicesList": [
-                {
-                    "entityIdService": "3",
-                    "entityNameService": "Mtc 22$"
-                },
-                {
-                    "entityIdService": "4",
-                    "entityNameService": "Mtc 30$"
-                }
-            ]
+        },
+        "2": {
+            "data": {
+                "thirdPartyServicesList": [
+                    {
+                        "entityIdService": "3",
+                        "entityNameService": "Mtc 22$"
+                    },
+                    {
+                        "entityIdService": "4",
+                        "entityNameService": "Mtc 30$"
+                    }
+                ]
+            }
         }
     }
 }
